@@ -1,0 +1,7 @@
+{
+  "name": "Family Guy Plugin",
+  "version": "1.0",
+  "description": "Плагин для просмотра Family Guy с сайта mult-fan.tv",
+  "author": "Твое Имя",
+  "id": "familyguy-plugin"
+}
